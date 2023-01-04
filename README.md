@@ -1,1 +1,1 @@
-# jmdict-stardict
+# jmdict_stardict
